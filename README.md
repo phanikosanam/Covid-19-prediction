@@ -20,3 +20,7 @@ After training, we use the SVM model to predict the COVID-19 status of new patie
 
 Step 5: Evaluation: 
 This model’s accuracy is calculated based on the predictions.
+
+Confusion Matrix: Used for classification tasks, it helps to visualize the performance of a classification algorithm.
+Mean Absolute Error (MAE): Used for regression tasks, it measures the average magnitude of errors in predictions, without considering their direction.
+Root Mean Square Error (RMSE): Also used for regression tasks, it measures the average magnitude of errors but gives more weight to larger errors.
