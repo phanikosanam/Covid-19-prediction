@@ -14,7 +14,9 @@ SVM algorithm works to find the hyperplane the best separates the data points of
 
 3.	Support vectors: 
 There are critical data points, that lie closest to the hyperplane and are used to define the margin. 
+
 Step 4: Making Predictions:
 After training, we use the SVM model to predict the COVID-19 status of new patients based on their symptoms.
+
 Step 5: Evaluation: 
 This model’s accuracy is calculated based on the predictions.
