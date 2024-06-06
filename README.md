@@ -24,3 +24,6 @@ This model’s accuracy is calculated based on the predictions.
 Confusion Matrix: Used for classification tasks, it helps to visualize the performance of a classification algorithm.
 Mean Absolute Error (MAE): Used for regression tasks, it measures the average magnitude of errors in predictions, without considering their direction.
 Root Mean Square Error (RMSE): Also used for regression tasks, it measures the average magnitude of errors but gives more weight to larger errors.
+
+![Screenshot 2024-06-05 205815](https://github.com/phanikosanam/Covid-19-prediction/assets/170285019/114bf41d-562f-4fcb-9e36-31db52ddb74e)
+
